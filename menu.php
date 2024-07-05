@@ -1,7 +1,5 @@
-<?php echo "my repository";
-    echo "<br>";
-    echo "Product";
-    echo "<br>";
-    echo "About Me";
+<?php echo "หน้าหลัก";  
+    echo "สินค้า";
+    echo "เกี่ยวกับ";
    
     ?>
